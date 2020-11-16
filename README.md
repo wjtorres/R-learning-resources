@@ -1,5 +1,5 @@
 # R-learning-resources
-These are a collection of resources that I have found helpful in learning R
+These are a collection of resources that I have found helpful in learning R.
 
 ## getting started
 * [download R](https://www.r-project.org/)
@@ -24,15 +24,7 @@ These are a collection of resources that I have found helpful in learning R
 * [gganimate](https://gganimate.com/articles/gganimate.html)
 * [plotly](https://plotly.com/r/getting-started/)
 
-## viewing #TidyTuesday screencasts
-* [David Robinson](https://www.youtube.com/user/safe4democracy/videos)
-* [TidyX](https://www.youtube.com/c/TidyX_screencast/videos)
 
-***
-
-## list of lists of useful resources
-* [RStudio's list](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
-* [Association for Psychological Science (APS) list](https://www.psychologicalscience.org/observer/learning-to-work-with-r)
 
 ***
 
@@ -46,3 +38,16 @@ These are a collection of resources that I have found helpful in learning R
 * [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/tidytext.html)
 * [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+
+***
+
+## #TidyTuesday screencasts
+* [David Robinson](https://www.youtube.com/user/safe4democracy/videos)
+* [TidyX](https://www.youtube.com/c/TidyX_screencast/videos)
+
+***
+
+## list of lists of useful resources
+* [RStudio's list](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
+* [Association for Psychological Science (APS) list](https://www.psychologicalscience.org/observer/learning-to-work-with-r)
+
