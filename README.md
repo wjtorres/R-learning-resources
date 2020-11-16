@@ -32,16 +32,16 @@ These are a collection of resources that I have found helpful in learning R.
 
 ## collection of online books
 
-* [R for Data Science](https://r4ds.had.co.nz/)
-* [Getting Used to R, RStudio, and R Markdown](https://rbasics.netlify.app/index.html)
-* [ModernDive](https://moderndive.com/)
-* [Learning Statistics with R](https://learningstatisticswithr.com/)
-* [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/index.html)
-* [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/tidytext.html)
 * [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
-* [YaRrr! The Pirate’s Guide to R](https://ndphillips.github.io/piratesguide.html)
+* [Getting Used to R, RStudio, and R Markdown](https://rbasics.netlify.app/index.html)
+* [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/index.html)
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+* [Learning Statistics with R](https://learningstatisticswithr.com/)
+* [ModernDive](https://moderndive.com/)
+* [R for Data Science](https://r4ds.had.co.nz/)
+* [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/tidytext.html)
+* [YaRrr! The Pirate’s Guide to R](https://ndphillips.github.io/piratesguide.html)
 
 ***
 
