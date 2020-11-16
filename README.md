@@ -3,18 +3,18 @@ These are a collection of resources that I have found helpful in learning R
 
 ## getting started
 * [download R](https://www.r-project.org/)
-* [download RStudio](https://rstudio.com/products/rstudio/download/)
-
+* [download RStudio](https://rstudio.com/products/rstudio/download/) - interface for a more user-friendly R
 
 ## using R packages for psychological research
 * [psych](http://personality-project.org/r/psych/)
+* [lavaan](https://lavaan.ugent.be/start.html) - latent variable analysis (e.g., SEM)
 
 ## manipulating data
 * [dplyr](https://dplyr.tidyverse.org/)
-* [tidyr](https://tidyr.tidyverse.org/) (e.g., pivoting data from wide to long or long to wide)
+* [tidyr](https://tidyr.tidyverse.org/) - tidy messy data (e.g., pivoting data from wide to long or long to wide)
 
 ## creating graphics
-* [ggplot2](https://ggplot2.tidyverse.org/)
+* [ggplot2](https://ggplot2.tidyverse.org/) - data visualization package
 
 ## animating graphics
 * [gganimate](https://gganimate.com/articles/gganimate.html)
@@ -26,3 +26,4 @@ These are a collection of resources that I have found helpful in learning R
 
 ## reviewing other lists of useful resources
 * [RStudio's list](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
+* [Association for Psychological Science (APS) list](https://www.psychologicalscience.org/observer/learning-to-work-with-r)
