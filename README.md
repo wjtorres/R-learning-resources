@@ -5,11 +5,6 @@ These are a collection of resources that I have found helpful in learning R.
 * [download R](https://www.r-project.org/)
 * [download RStudio](https://rstudio.com/products/rstudio/download/) - interface for a more user-friendly R
 
-## using R packages for psychological research
-* [psych](http://personality-project.org/r/psych/) - descriptive and statistical analysis
-* [lavaan](https://lavaan.ugent.be/start.html) - latent variable analysis (e.g., SEM)
-* [lme4](https://github.com/lme4/lme4/) - mixed-effects models
-
 ## manipulating data
 * [dplyr](https://dplyr.tidyverse.org/)
 * [tidyr](https://tidyr.tidyverse.org/) - tidy messy data (e.g., pivoting data from wide to long or long to wide)
@@ -24,7 +19,14 @@ These are a collection of resources that I have found helpful in learning R.
 * [gganimate](https://gganimate.com/articles/gganimate.html)
 * [plotly](https://plotly.com/r/getting-started/)
 
+## communicating results
+* [R Markdown](https://rmarkdown.rstudio.com/index.html)
 
+****
+
+## tutorials
+* [swirl](https://swirlstats.com/students.html) - learn R in R
+* [Sara and Debbie's R tutorials](https://debyeeneuro.com/r-tutorials/)
 
 ***
 
@@ -38,12 +40,21 @@ These are a collection of resources that I have found helpful in learning R.
 * [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/tidytext.html)
 * [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+* [YaRrr! The Pirate’s Guide to R](https://ndphillips.github.io/piratesguide.html)
+* [Happy Git and GitHub for the useR](https://happygitwithr.com/)
 
 ***
 
 ## #TidyTuesday screencasts
 * [David Robinson](https://www.youtube.com/user/safe4democracy/videos)
 * [TidyX](https://www.youtube.com/c/TidyX_screencast/videos)
+
+***
+
+## R packages for psychological research
+* [psych](http://personality-project.org/r/psych/) - descriptive and statistical analysis
+* [lavaan](https://lavaan.ugent.be/start.html) - latent variable analysis (e.g., SEM)
+* [lme4](https://github.com/lme4/lme4/) - mixed-effects models
 
 ***
 
