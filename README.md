@@ -8,7 +8,6 @@ These are a collection of resources that I have found helpful in learning R
 
 ## using R packages for psychological research
 * [psych](http://personality-project.org/r/psych/)
-* 
 
 ## manipulating data
 * [dplyr](https://dplyr.tidyverse.org/)
