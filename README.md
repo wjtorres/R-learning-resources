@@ -14,6 +14,7 @@ These are a collection of resources that I have found helpful in learning R.
 
 ## creating graphics
 * [ggplot2](https://ggplot2.tidyverse.org/) - data visualization package
+* [extrafont](https://cran.r-project.org/web/packages/extrafont/README.html) - using fonts other than PostScript
 
 ## animating graphics
 * [gganimate](https://gganimate.com/articles/gganimate.html)
