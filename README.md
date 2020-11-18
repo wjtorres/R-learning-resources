@@ -5,24 +5,38 @@ These are a collection of resources that I have found helpful in learning R.
 * [download R](https://www.r-project.org/)
 * [download RStudio](https://rstudio.com/products/rstudio/download/) - interface for a more user-friendly R
 
-## manipulating data
+## data manipulation
 * [dplyr](https://dplyr.tidyverse.org/)
 * [tidyr](https://tidyr.tidyverse.org/) - tidy messy data (e.g., pivoting data from wide to long or long to wide)
 
-## creating tables
+## tables
 * [stargazer](https://www.jakeruss.com/cheatsheets/stargazer/)
 
-## creating graphics
+## plots
 * [ggplot2](https://ggplot2.tidyverse.org/) - data visualization package
+* [cowplot](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html) - add on to ggplot
+* [ggdist](https://mjskay.github.io/ggdist/reference/index.html#section-package-overview) - visualizing distributions and uncertainty
+
+## color palettes
+* [RColorBrewer](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/)
+* [palette_OkabeIto](https://rdrr.io/github/clauswilke/colorblindr/man/scale_OkabeIto.html) - color-blind friendly, categorical
+
+## fonts
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/README.html) - using fonts other than PostScript
 * [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html) - alternative to extrafont
 
-## animating graphics
+## animations
 * [gganimate](https://gganimate.com/articles/gganimate.html)
 * [plotly](https://plotly.com/r/getting-started/)
 
-## communicating results
+## markdown
 * [R Markdown](https://rmarkdown.rstudio.com/index.html)
+
+## data visualization catalogues
+* [The data visualization catalogue](https://datavizcatalogue.com/)
+* [From data to viz](https://www.data-to-viz.com/)
+* [data viz project(https://datavizproject.com/)
+* [visualization universe](http://visualizationuniverse.com/charts/)
 
 ****
 
