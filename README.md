@@ -18,10 +18,10 @@ These are a collection of resources that I have found helpful in learning R.
 * [ggdist](https://mjskay.github.io/ggdist/reference/index.html#section-package-overview) - visualizing distributions and uncertainty
 
 ### color palettes
-* [RColorBrewer](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/)
+* [RColorBrewer](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/) - package offers palettes for qualitative and quantitative data
 * [palette_OkabeIto](https://rdrr.io/github/clauswilke/colorblindr/man/scale_OkabeIto.html) - color-blind friendly, categorical
-* [viz palette](https://projects.susielu.com/viz-palette)
-* [color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+* [viz palette](https://projects.susielu.com/viz-palette) - helps pick colors for data visualizations
+* [color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - test your data visualization with this color blindness simulator
 * [gghighlight](https://cran.r-project.org/web/packages/gghighlight/vignettes/gghighlight.html)
 
 ### fonts
@@ -33,8 +33,8 @@ These are a collection of resources that I have found helpful in learning R.
 * [plotly](https://plotly.com/r/getting-started/)
 
 ### data visualization catalogues
-* [The data visualization catalogue](https://datavizcatalogue.com/)
-* [From data to viz](https://www.data-to-viz.com/)
+* [the data visualization catalogue](https://datavizcatalogue.com/)
+* [from data to viz](https://www.data-to-viz.com/)
 * [data viz project](https://datavizproject.com/)
 * [visualization universe](http://visualizationuniverse.com/charts/)
 
