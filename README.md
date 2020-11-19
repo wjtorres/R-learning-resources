@@ -17,26 +17,29 @@ These are a collection of resources that I have found helpful in learning R.
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html) - add on to ggplot
 * [ggdist](https://mjskay.github.io/ggdist/reference/index.html#section-package-overview) - visualizing distributions and uncertainty
 
-## color palettes
+### color palettes
 * [RColorBrewer](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/)
 * [palette_OkabeIto](https://rdrr.io/github/clauswilke/colorblindr/man/scale_OkabeIto.html) - color-blind friendly, categorical
+* [viz palette](https://projects.susielu.com/viz-palette)
+* [color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+* [gghighlight](https://cran.r-project.org/web/packages/gghighlight/vignettes/gghighlight.html)
 
-## fonts
+### fonts
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/README.html) - using fonts other than PostScript
 * [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html) - alternative to extrafont
 
-## animations
+### animation
 * [gganimate](https://gganimate.com/articles/gganimate.html)
 * [plotly](https://plotly.com/r/getting-started/)
 
-## markdown
-* [R Markdown](https://rmarkdown.rstudio.com/index.html)
-
-## data visualization catalogues
+### data visualization catalogues
 * [The data visualization catalogue](https://datavizcatalogue.com/)
 * [From data to viz](https://www.data-to-viz.com/)
-* [data viz project(https://datavizproject.com/)
+* [data viz project](https://datavizproject.com/)
 * [visualization universe](http://visualizationuniverse.com/charts/)
+
+## markdown
+* [R Markdown](https://rmarkdown.rstudio.com/index.html)
 
 ****
 
@@ -47,7 +50,6 @@ These are a collection of resources that I have found helpful in learning R.
 ***
 
 ## collection of online books
-
 * [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 * [Getting Used to R, RStudio, and R Markdown](https://rbasics.netlify.app/index.html)
