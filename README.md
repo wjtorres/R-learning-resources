@@ -58,6 +58,7 @@ These are a collection of resources that I have found helpful in learning R.
 * [Learning Statistics with R](https://learningstatisticswithr.com/)
 * [ModernDive](https://moderndive.com/)
 * [R for Data Science](https://r4ds.had.co.nz/)
+* [R for Psychological Science](https://psyr.djnavarro.net/)
 * [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/tidytext.html)
 * [YaRrr! The Pirate’s Guide to R](https://ndphillips.github.io/piratesguide.html)
 
