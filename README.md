@@ -80,4 +80,5 @@ These are a collection of resources that I have found helpful in learning R.
 ## list of lists of useful resources
 * [RStudio's list](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
 * [Association for Psychological Science (APS) list](https://www.psychologicalscience.org/observer/learning-to-work-with-r)
+* [CRAN Tak Views](https://cran.r-project.org/web/views/) - lists packages on CRAN that are relevant for certain types of tasks
 
