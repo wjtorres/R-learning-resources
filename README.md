@@ -4,25 +4,40 @@ These are a collection of resources that I have found helpful in learning R.
 ## getting started
 * [download R](https://www.r-project.org/)
 * [download RStudio](https://rstudio.com/products/rstudio/download/) - interface for a more user-friendly R
+* [here](https://malco.io/2018/11/05/why-should-i-use-the-here-package-when-i-m-already-using-projects/) - best practices in referencing files in projects
 
 ## data manipulation
 * [dplyr](https://dplyr.tidyverse.org/)
 * [tidyr](https://tidyr.tidyverse.org/) - tidy messy data (e.g., pivoting data from wide to long or long to wide)
 
+## data cleaning
+* [gsub](http://www.endmemo.com/r/gsub.php) - replace multiple occurrences of strings
+* [janitor](https://garthtarr.github.io/meatR/janitor.html) - cleaning data
+
+## descriptives and data exploration
+* [descriptive statistics](https://rpsystats.com/datasets.html#descriptive-statistics) - example of examining data numerically and visually
+* [DataExplorer](https://boxuancui.github.io/DataExplorer/) - has a great create_report() function
+
 ## tables
 * [stargazer](https://www.jakeruss.com/cheatsheets/stargazer/)
+* [gt](https://gt.rstudio.com/) - create customized tables
+
 
 ## plots
 * [ggplot2](https://ggplot2.tidyverse.org/) - data visualization package
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html) - add on to ggplot
 * [ggdist](https://mjskay.github.io/ggdist/reference/index.html#section-package-overview) - visualizing distributions and uncertainty
+* [ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/) - graphics that include details of statistical test
 
 ### color palettes
 * [RColorBrewer](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/) - package offers palettes for qualitative and quantitative data
 * [palette_OkabeIto](https://rdrr.io/github/clauswilke/colorblindr/man/scale_OkabeIto.html) - color-blind friendly, categorical
 * [viz palette](https://projects.susielu.com/viz-palette) - helps pick colors for data visualizations
 * [color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - test your data visualization with this color blindness simulator
+
+### highlighting select data
 * [gghighlight](https://cran.r-project.org/web/packages/gghighlight/vignettes/gghighlight.html)
+* [highlight](https://cmdlinetips.com/2019/05/how-to-highlight-select-data-points-with-ggplot2-in-r/) - post on how to highlight select data in ggplot
 
 ### fonts
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/README.html) - using fonts other than PostScript
@@ -40,6 +55,11 @@ These are a collection of resources that I have found helpful in learning R.
 
 ## markdown
 * [R Markdown](https://rmarkdown.rstudio.com/index.html)
+
+## saving
+* [ggsave](http://www.sthda.com/english/wiki/ggsave-save-a-ggplot-r-software-and-data-visualization) - saving a ggplot
+* [cairo](https://aebou.rbind.io/posts/2020/11/how-to-export-high-quality-images-in-r/) - using cairo package to save high quality images
+
 
 ****
 
