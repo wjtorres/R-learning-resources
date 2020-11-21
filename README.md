@@ -22,7 +22,6 @@ These are a collection of resources that I have found helpful in learning R.
 * [stargazer](https://www.jakeruss.com/cheatsheets/stargazer/)
 * [gt](https://gt.rstudio.com/) - create customized tables
 
-
 ## plots
 * [ggplot2](https://ggplot2.tidyverse.org/) - data visualization package
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html) - add on to ggplot
@@ -34,10 +33,18 @@ These are a collection of resources that I have found helpful in learning R.
 * [palette_OkabeIto](https://rdrr.io/github/clauswilke/colorblindr/man/scale_OkabeIto.html) - color-blind friendly, categorical
 * [viz palette](https://projects.susielu.com/viz-palette) - helps pick colors for data visualizations
 * [color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) - test your data visualization with this color blindness simulator
+* [scico](https://github.com/thomasp85/scico) - color palettes
+* [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) - color palettes
+* [pals](https://kwstat.github.io/pals/) - collection of color palettes
+* [paletteer](https://github.com/EmilHvitfeldt/paletteer) - collection of color palettes
 
 ### highlighting select data
 * [gghighlight](https://cran.r-project.org/web/packages/gghighlight/vignettes/gghighlight.html)
 * [highlight](https://cmdlinetips.com/2019/05/how-to-highlight-select-data-points-with-ggplot2-in-r/) - post on how to highlight select data in ggplot
+
+### saving
+* [ggsave](http://www.sthda.com/english/wiki/ggsave-save-a-ggplot-r-software-and-data-visualization) - saving a ggplot
+* [cairo](https://aebou.rbind.io/posts/2020/11/how-to-export-high-quality-images-in-r/) - using cairo package to save high quality images
 
 ### fonts
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/README.html) - using fonts other than PostScript
@@ -55,11 +62,6 @@ These are a collection of resources that I have found helpful in learning R.
 
 ## markdown
 * [R Markdown](https://rmarkdown.rstudio.com/index.html)
-
-## saving
-* [ggsave](http://www.sthda.com/english/wiki/ggsave-save-a-ggplot-r-software-and-data-visualization) - saving a ggplot
-* [cairo](https://aebou.rbind.io/posts/2020/11/how-to-export-high-quality-images-in-r/) - using cairo package to save high quality images
-
 
 ****
 
