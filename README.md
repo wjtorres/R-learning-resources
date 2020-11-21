@@ -92,10 +92,17 @@ These are a collection of resources that I have found helpful in learning R.
 
 ***
 
-## R packages for psychological research
+## R for psychological research
 * [psych](http://personality-project.org/r/psych/) - descriptive and statistical analysis
 * [lavaan](https://lavaan.ugent.be/start.html) - latent variable analysis (e.g., SEM)
 * [lme4](https://github.com/lme4/lme4/) - mixed-effects models
+* [GLM in R](https://rpsystats.com/)
+
+***
+
+## Datasets for practice
+* [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
+
 
 ***
 
