@@ -54,7 +54,7 @@ These are a collection of resources that I have found helpful in learning R.
 * [gghighlight](https://cran.r-project.org/web/packages/gghighlight/vignettes/gghighlight.html)
 * [highlight](https://cmdlinetips.com/2019/05/how-to-highlight-select-data-points-with-ggplot2-in-r/) - post on how to highlight select data in ggplot
 
-### saving
+### saving plots
 * [ggsave](http://www.sthda.com/english/wiki/ggsave-save-a-ggplot-r-software-and-data-visualization) - saving a ggplot
 * [cairo](https://aebou.rbind.io/posts/2020/11/how-to-export-high-quality-images-in-r/) - using cairo package to save high quality images
 
@@ -62,7 +62,7 @@ These are a collection of resources that I have found helpful in learning R.
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/README.html) - using fonts other than PostScript
 * [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html) - alternative to extrafont; can use google fonts
 
-### animation
+### animating plots
 * [gganimate](https://gganimate.com/articles/gganimate.html)
 * [plotly](https://plotly.com/r/getting-started/)
 
@@ -78,7 +78,7 @@ These are a collection of resources that I have found helpful in learning R.
 
 ****
 
-## tutorials
+## R tutorials
 * [swirl](https://swirlstats.com/students.html) - learn R in R
 * [Sara and Debbie's R tutorials](https://debyeeneuro.com/r-tutorials/)
 
@@ -120,7 +120,7 @@ These are a collection of resources that I have found helpful in learning R.
 
 ***
 
-## list of lists of useful resources
+## list of lists of useful R resources
 * [RStudio's list](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
 * [Association for Psychological Science (APS) list](https://www.psychologicalscience.org/observer/learning-to-work-with-r)
 * [CRAN Task Views list of packages](https://cran.r-project.org/web/views/) - lists packages on CRAN that are relevant for certain types of tasks
