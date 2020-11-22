@@ -6,6 +6,12 @@ These are a collection of resources that I have found helpful in learning R.
 * [download RStudio](https://rstudio.com/products/rstudio/download/) - interface for a more user-friendly R
 * [here](https://malco.io/2018/11/05/why-should-i-use-the-here-package-when-i-m-already-using-projects/) - best practices in referencing files in projects
 
+## importing data
+* [readr](https://readr.tidyverse.org/) - supports different file formats including csv files
+
+## combining data sets
+* [dplyr's join functions](https://dplyr.tidyverse.org/reference/join.html) - includes for example inner_join()
+
 ## data manipulation
 * [dplyr](https://dplyr.tidyverse.org/)
 * [tidyr](https://tidyr.tidyverse.org/) - tidy messy data (e.g., pivoting data from wide to long or long to wide)
@@ -17,10 +23,16 @@ These are a collection of resources that I have found helpful in learning R.
 ## descriptives and data exploration
 * [descriptive statistics](https://rpsystats.com/datasets.html#descriptive-statistics) - example of examining data numerically and visually
 * [DataExplorer](https://boxuancui.github.io/DataExplorer/) - has a great create_report() function
+* [glimpse](https://tibble.tidyverse.org/reference/glimpse.html) - take a glimpse at dataframe
+* [skimr](https://github.com/ropensci/skimr) - quickly skim descriptive statistics of data
+* [summary](https://www.statmethods.net/stats/descriptives.html) - provides descriptives of data with summary() function
+* [hmisc](https://thomaselove.github.io/431notes-2017/summarizing-categorical-variables.html#describe-in-the-hmisc-package-1) - hmisc package has the describe() function to get statistical descriptions
+* [psych](https://www.rdocumentation.org/packages/psych/versions/1.0-17/topics/describe) - psych package has the describe() function
 
 ## tables
 * [stargazer](https://www.jakeruss.com/cheatsheets/stargazer/)
 * [gt](https://gt.rstudio.com/) - create customized tables
+* [pander](https://www.statsandr.com/blog/tips-and-tricks-in-rstudio-and-r-markdown/#pander-for-aesthetics) - improve aesthetics of R outputs
 
 ## plots
 * [ggplot2](https://ggplot2.tidyverse.org/) - data visualization package
@@ -77,6 +89,7 @@ These are a collection of resources that I have found helpful in learning R.
 * [Getting Used to R, RStudio, and R Markdown](https://rbasics.netlify.app/index.html)
 * [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/index.html)
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+* [Just Enough R](https://benwhalley.github.io/just-enough-r/)
 * [Learning Statistics with R](https://learningstatisticswithr.com/)
 * [ModernDive](https://moderndive.com/)
 * [R for Data Science](https://r4ds.had.co.nz/)
@@ -101,13 +114,13 @@ These are a collection of resources that I have found helpful in learning R.
 ***
 
 ## Datasets for practice
+* [datasets package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
 * [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
-
 
 ***
 
 ## list of lists of useful resources
 * [RStudio's list](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
 * [Association for Psychological Science (APS) list](https://www.psychologicalscience.org/observer/learning-to-work-with-r)
-* [CRAN Tak Views](https://cran.r-project.org/web/views/) - lists packages on CRAN that are relevant for certain types of tasks
+* [CRAN Task Views list of packages](https://cran.r-project.org/web/views/) - lists packages on CRAN that are relevant for certain types of tasks
 
