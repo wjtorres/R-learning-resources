@@ -33,6 +33,8 @@ These are a collection of resources that I have found helpful in learning R.
 * [stargazer](https://www.jakeruss.com/cheatsheets/stargazer/)
 * [gt](https://gt.rstudio.com/) - create customized tables
 * [pander](https://www.statsandr.com/blog/tips-and-tricks-in-rstudio-and-r-markdown/#pander-for-aesthetics) - improve aesthetics of R outputs
+* [broom](https://github.com/tidymodels/broom)
+* [kable](https://bookdown.org/yihui/rmarkdown-cookbook/kable.html)
 
 ## plots
 * [ggplot2](https://ggplot2.tidyverse.org/) - data visualization package
