@@ -60,7 +60,7 @@ These are a collection of resources that I have found helpful in learning R.
 
 ### fonts
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/README.html) - using fonts other than PostScript
-* [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html) - alternative to extrafont
+* [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html) - alternative to extrafont; can use google fonts
 
 ### animation
 * [gganimate](https://gganimate.com/articles/gganimate.html)
@@ -72,8 +72,9 @@ These are a collection of resources that I have found helpful in learning R.
 * [data viz project](https://datavizproject.com/)
 * [visualization universe](http://visualizationuniverse.com/charts/)
 
-## markdown
+## R markdown
 * [R Markdown](https://rmarkdown.rstudio.com/index.html)
+* [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
 ****
 
