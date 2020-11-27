@@ -35,6 +35,7 @@ These are a collection of resources that I have found helpful in learning R.
 * [pander](https://www.statsandr.com/blog/tips-and-tricks-in-rstudio-and-r-markdown/#pander-for-aesthetics) - improve aesthetics of R outputs
 * [broom](https://github.com/tidymodels/broom)
 * [kable](https://bookdown.org/yihui/rmarkdown-cookbook/kable.html)
+* [apaTables](https://www.rdocumentation.org/packages/apaTables/versions/1.5.0) - export APA formatted tables from R to word
 
 ## plots
 * [ggplot2](https://ggplot2.tidyverse.org/) - data visualization package
