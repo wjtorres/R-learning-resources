@@ -23,6 +23,7 @@ These are a collection of resources that I have found helpful in learning R.
 ## descriptives and data exploration
 * [descriptive statistics](https://rpsystats.com/datasets.html#descriptive-statistics) - example of examining data numerically and visually
 * [DataExplorer](https://boxuancui.github.io/DataExplorer/) - has a great create_report() function
+* [overviewR](https://cosimameyer.github.io/overviewR/articles/overviewR_vignette.html) - examines data and sample coverage across time and conditions 
 * [glimpse](https://tibble.tidyverse.org/reference/glimpse.html) - take a glimpse at dataframe
 * [skimr](https://github.com/ropensci/skimr) - quickly skim descriptive statistics of data
 * [summary](https://www.statmethods.net/stats/descriptives.html) - provides descriptives of data with summary() function
@@ -44,6 +45,8 @@ These are a collection of resources that I have found helpful in learning R.
 * [ggdist](https://mjskay.github.io/ggdist/reference/index.html#section-package-overview) - visualizing distributions and uncertainty
 * [ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/) - graphics that include details of statistical test
 * [lattice](https://cran.r-project.org/web/packages/lattice/index.html) - multivariate plotting
+* [ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/) - plots with statistical details
+* [ggpubr](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/) - publication ready plots
 
 ### themes
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - more themes for ggplot2
@@ -107,6 +110,7 @@ These are a collection of resources that I have found helpful in learning R.
 * [R for Psychological Science](https://psyr.djnavarro.net/)
 * [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/tidytext.html)
 * [YaRrr! The Pirate’s Guide to R](https://ndphillips.github.io/piratesguide.html)
+* [Handbook of Regression Modeling in People Analytics](http://peopleanalytics-regression-book.org/index.html)
 
 ***
 
