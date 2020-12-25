@@ -39,9 +39,14 @@ These are a collection of resources that I have found helpful in learning R.
 
 ## plots
 * [ggplot2](https://ggplot2.tidyverse.org/) - data visualization package
+* [ggplot2 extensions](https://exts.ggplot2.tidyverse.org/)
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html) - add on to ggplot
 * [ggdist](https://mjskay.github.io/ggdist/reference/index.html#section-package-overview) - visualizing distributions and uncertainty
 * [ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/) - graphics that include details of statistical test
+* [lattice](https://cran.r-project.org/web/packages/lattice/index.html) - multivariate plotting
+
+### themes
+* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - more themes for ggplot2
 
 ### color palettes
 * [RColorBrewer](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/) - package offers palettes for qualitative and quantitative data
@@ -52,6 +57,7 @@ These are a collection of resources that I have found helpful in learning R.
 * [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) - color palettes
 * [pals](https://kwstat.github.io/pals/) - collection of color palettes
 * [paletteer](https://github.com/EmilHvitfeldt/paletteer) - collection of color palettes
+* [color hex codes](https://www.color-hex.com/) - help with color hex codes
 
 ### highlighting select data
 * [gghighlight](https://cran.r-project.org/web/packages/gghighlight/vignettes/gghighlight.html)
@@ -74,6 +80,7 @@ These are a collection of resources that I have found helpful in learning R.
 * [from data to viz](https://www.data-to-viz.com/)
 * [data viz project](https://datavizproject.com/)
 * [visualization universe](http://visualizationuniverse.com/charts/)
+* [chart doctor](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
 
 ## R markdown
 * [R Markdown](https://rmarkdown.rstudio.com/index.html)
@@ -127,4 +134,5 @@ These are a collection of resources that I have found helpful in learning R.
 * [RStudio's list](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
 * [Association for Psychological Science (APS) list](https://www.psychologicalscience.org/observer/learning-to-work-with-r)
 * [CRAN Task Views list of packages](https://cran.r-project.org/web/views/) - lists packages on CRAN that are relevant for certain types of tasks
+* [9 useful R data visualization packages list](https://mode.com/blog/r-data-visualization-packages/)
 
