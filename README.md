@@ -73,10 +73,6 @@ These are a collection of resources that I have found helpful in learning R.
 * [gghighlight](https://cran.r-project.org/web/packages/gghighlight/vignettes/gghighlight.html)
 * [highlight](https://cmdlinetips.com/2019/05/how-to-highlight-select-data-points-with-ggplot2-in-r/) - post on how to highlight select data in ggplot
 
-### saving plots
-* [ggsave](http://www.sthda.com/english/wiki/ggsave-save-a-ggplot-r-software-and-data-visualization) - saving a ggplot
-* [cairo](https://aebou.rbind.io/posts/2020/11/how-to-export-high-quality-images-in-r/) - using cairo package to save high quality images
-
 ### fonts
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/README.html) - using fonts other than PostScript
 * [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html) - alternative to extrafont; can use google fonts
@@ -88,7 +84,16 @@ These are a collection of resources that I have found helpful in learning R.
 
 ### animating plots
 * [gganimate](https://gganimate.com/articles/gganimate.html)
+
+# interactive plots
+* [shiny](https://github.com/rstudio/shiny)
+* [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/)
 * [plotly](https://plotly.com/r/getting-started/)
+* [ggiraph](https://davidgohel.github.io/ggiraph/articles/offcran/using_ggiraph.html)
+
+### saving plots
+* [ggsave](http://www.sthda.com/english/wiki/ggsave-save-a-ggplot-r-software-and-data-visualization) - saving a ggplot
+* [cairo](https://aebou.rbind.io/posts/2020/11/how-to-export-high-quality-images-in-r/) - using cairo package to save high quality images
 
 ### data visualization catalogues
 * [the data visualization catalogue](https://datavizcatalogue.com/)
@@ -110,6 +115,7 @@ These are a collection of resources that I have found helpful in learning R.
 ***
 
 ## collection of online books
+* [Cookbook for R](http://www.cookbook-r.com/Graphs/)
 * [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 * [Getting Used to R, RStudio, and R Markdown](https://rbasics.netlify.app/index.html)
@@ -151,4 +157,5 @@ These are a collection of resources that I have found helpful in learning R.
 * [Association for Psychological Science (APS) list](https://www.psychologicalscience.org/observer/learning-to-work-with-r)
 * [CRAN Task Views list of packages](https://cran.r-project.org/web/views/) - lists packages on CRAN that are relevant for certain types of tasks
 * [9 useful R data visualization packages list](https://mode.com/blog/r-data-visualization-packages/)
+* [Top 50 ggplot2 visualizations list](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
