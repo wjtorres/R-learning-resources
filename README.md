@@ -54,6 +54,9 @@ These are a collection of resources that I have found helpful in learning R.
 ### themes
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - more themes for ggplot2
 
+### color
+* [colors in R](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) - pdf of colors in R
+
 ### color palettes
 * [RColorBrewer](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/) - package offers palettes for qualitative and quantitative data
 * [palette_OkabeIto](https://rdrr.io/github/clauswilke/colorblindr/man/scale_OkabeIto.html) - color-blind friendly, categorical
