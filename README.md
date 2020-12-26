@@ -161,3 +161,6 @@ These are a collection of resources that I have found helpful in learning R.
 * [9 useful R data visualization packages list](https://mode.com/blog/r-data-visualization-packages/)
 * [Top 50 ggplot2 visualizations list](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
+## misc
+* [choosing a chart](https://extremepresentation.typepad.com/files/chart-chooser-2020.pdf) - comparison, relationship, distribution, composition
+
