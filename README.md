@@ -85,7 +85,7 @@ These are a collection of resources that I have found helpful in learning R.
 ### animating plots
 * [gganimate](https://gganimate.com/articles/gganimate.html)
 
-# interactive plots
+### interactive plots
 * [shiny](https://github.com/rstudio/shiny)
 * [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/)
 * [plotly](https://plotly.com/r/getting-started/)
