@@ -8,6 +8,8 @@ These are a collection of resources that I have found helpful in learning R.
 
 ## importing data
 * [readr](https://readr.tidyverse.org/) - supports different file formats including csv files
+* [readxl](https://readxl.tidyverse.org/) - read-in Excel formats
+* [haven](https://haven.tidyverse.org/) - import and export SPSS, STATA, and SAS
 
 ## combining data sets
 * [dplyr's join functions](https://dplyr.tidyverse.org/reference/join.html) - includes for example inner_join()
