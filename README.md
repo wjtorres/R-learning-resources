@@ -33,12 +33,6 @@ These are a collection of resources that I have found helpful in learning R.
 * [brolgar](https://github.com/njtierney/brolgar)
 * [overviewR](https://cosimameyer.github.io/overviewR/articles/overviewR_vignette.html) - examines data and sample coverage across time and conditions
 
-## combining multiple plots
-* [patchwork](https://patchwork.data-imaginist.com/) - combime multiple plots in same visualization
-* [cowplot](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html) - arrange plots in grid
-* [gridExtra](https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html) - lay out multiple plots
-
-
 ## tables
 * [stargazer](https://www.jakeruss.com/cheatsheets/stargazer/)
 * [gt](https://gt.rstudio.com/) - create customized tables
@@ -83,6 +77,11 @@ These are a collection of resources that I have found helpful in learning R.
 ### fonts
 * [extrafont](https://cran.r-project.org/web/packages/extrafont/README.html) - using fonts other than PostScript
 * [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html) - alternative to extrafont; can use google fonts
+
+### combining multiple plots
+* [patchwork](https://patchwork.data-imaginist.com/) - combime multiple plots in same visualization
+* [cowplot](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html) - arrange plots in grid
+* [gridExtra](https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html) - lay out multiple plots
 
 ### animating plots
 * [gganimate](https://gganimate.com/articles/gganimate.html)
