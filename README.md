@@ -43,6 +43,10 @@ These are a collection of resources that I have found helpful in learning R.
 * [kable](https://bookdown.org/yihui/rmarkdown-cookbook/kable.html)
 * [apaTables](https://www.rdocumentation.org/packages/apaTables/versions/1.5.0) - export APA formatted tables from R to word
 
+## correlations
+* [corrgram](https://kwstat.github.io/corrgram/articles/corrgram_examples.html)
+* [corrr](https://github.com/tidymodels/corrr)
+
 ## plots
 * [ggplot2](https://ggplot2.tidyverse.org/) - data visualization package
 * [ggplot2 extensions](https://exts.ggplot2.tidyverse.org/)
