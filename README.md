@@ -61,6 +61,7 @@ These are a collection of resources that I have found helpful in learning R.
 * [pals](https://kwstat.github.io/pals/) - collection of color palettes
 * [paletteer](https://github.com/EmilHvitfeldt/paletteer) - collection of color palettes
 * [color hex codes](https://www.color-hex.com/) - help with color hex codes
+* [colorspace](https://cran.r-project.org/web/packages/colorspace/vignettes/colorspace.html) - helps to manipulate colors
 
 ### highlighting select data
 * [gghighlight](https://cran.r-project.org/web/packages/gghighlight/vignettes/gghighlight.html)
