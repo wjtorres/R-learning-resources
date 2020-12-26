@@ -23,12 +23,15 @@ These are a collection of resources that I have found helpful in learning R.
 ## descriptives and data exploration
 * [descriptive statistics](https://rpsystats.com/datasets.html#descriptive-statistics) - example of examining data numerically and visually
 * [DataExplorer](https://boxuancui.github.io/DataExplorer/) - has a great create_report() function
-* [overviewR](https://cosimameyer.github.io/overviewR/articles/overviewR_vignette.html) - examines data and sample coverage across time and conditions 
 * [glimpse](https://tibble.tidyverse.org/reference/glimpse.html) - take a glimpse at dataframe
 * [skimr](https://github.com/ropensci/skimr) - quickly skim descriptive statistics of data
 * [summary](https://www.statmethods.net/stats/descriptives.html) - provides descriptives of data with summary() function
 * [hmisc](https://thomaselove.github.io/431notes-2017/summarizing-categorical-variables.html#describe-in-the-hmisc-package-1) - hmisc package has the describe() function to get statistical descriptions
 * [psych](https://www.rdocumentation.org/packages/psych/versions/1.0-17/topics/describe) - psych package has the describe() function
+
+## longitudinal data
+* [brolgar](https://github.com/njtierney/brolgar)
+* [overviewR](https://cosimameyer.github.io/overviewR/articles/overviewR_vignette.html) - examines data and sample coverage across time and conditions 
 
 ## tables
 * [stargazer](https://www.jakeruss.com/cheatsheets/stargazer/)
