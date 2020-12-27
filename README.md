@@ -1,4 +1,4 @@
-# R-learning-resources
+# R learning resources
 These are a collection of resources that I have found helpful in learning R.
 
 ## getting started
@@ -7,26 +7,32 @@ These are a collection of resources that I have found helpful in learning R.
 * [here](https://malco.io/2018/11/05/why-should-i-use-the-here-package-when-i-m-already-using-projects/) - best practices in referencing files in projects
 
 ## importing data
-* [readr](https://readr.tidyverse.org/) - supports different file formats including csv files
+* [readr](https://readr.tidyverse.org/) - read in rectangular formats (e.g., csv)
 * [readxl](https://readxl.tidyverse.org/) - read-in Excel formats
 * [haven](https://haven.tidyverse.org/) - import and export SPSS, STATA, and SAS
 
-## combining data sets
-* [dplyr's join functions](https://dplyr.tidyverse.org/reference/join.html) - includes for example inner_join()
+## creating data frames
+* [tribble](https://tibble.tidyverse.org/reference/tribble.html) - create tibbles with an easier to read row-by-row layout
 
-## data manipulation
-* [dplyr](https://dplyr.tidyverse.org/)
-* [tidyr](https://tidyr.tidyverse.org/) - tidy messy data (e.g., pivoting data from wide to long or long to wide)
+## combining multiple data frames
+* [dplyr's join functions](https://dplyr.tidyverse.org/reference/join.html) - includes for example left_join(), right_join(), inner_join(), full_join(), bind_rows(), bind_cols()
+
+## reshaping and manipulating data frames
+* [dplyr](https://dplyr.tidyverse.org/) - manipulate data (e.g., mutate, select, filter, summarize)
+* [tidyr](https://tidyr.tidyverse.org/) - tidy messy data, reshaping data (e.g., pivoting data from wide to long or long to wide)
+* [tibble](https://tibble.tidyverse.org/index.html) - includes for example add_row() and add_column()
 
 ## data cleaning
 * [gsub](http://www.endmemo.com/r/gsub.php) - replace multiple occurrences of strings
-* [janitor](https://garthtarr.github.io/meatR/janitor.html) - cleaning data
+* [janitor](https://garthtarr.github.io/meatR/janitor.html) - clean data (e.g., clean variable names)
 
-## descriptives and data exploration
-* [descriptive statistics](https://rpsystats.com/datasets.html#descriptive-statistics) - example of examining data numerically and visually
+## data frame exploration
 * [DataExplorer](https://boxuancui.github.io/DataExplorer/) - has a great create_report() function
-* [glimpse](https://tibble.tidyverse.org/reference/glimpse.html) - take a glimpse at dataframe
+* [glimpse](https://tibble.tidyverse.org/reference/glimpse.html) - take a glimpse at data frame
 * [skimr](https://github.com/ropensci/skimr) - quickly skim descriptive statistics of data
+
+## descriptives
+* [descriptive statistics](https://rpsystats.com/datasets.html#descriptive-statistics) - example of examining data numerically and visually
 * [summary](https://www.statmethods.net/stats/descriptives.html) - provides descriptives of data with summary() function
 * [hmisc](https://thomaselove.github.io/431notes-2017/summarizing-categorical-variables.html#describe-in-the-hmisc-package-1) - hmisc package has the describe() function to get statistical descriptions
 * [psych](https://www.rdocumentation.org/packages/psych/versions/1.0-17/topics/describe) - psych package has the describe() function
@@ -36,21 +42,23 @@ These are a collection of resources that I have found helpful in learning R.
 * [overviewR](https://cosimameyer.github.io/overviewR/articles/overviewR_vignette.html) - examines data and sample coverage across time and conditions
 
 ## tables
-* [stargazer](https://www.jakeruss.com/cheatsheets/stargazer/)
-* [gt](https://gt.rstudio.com/) - create customized tables
-* [pander](https://www.statsandr.com/blog/tips-and-tricks-in-rstudio-and-r-markdown/#pander-for-aesthetics) - improve aesthetics of R outputs
-* [broom](https://github.com/tidymodels/broom)
-* [kable](https://bookdown.org/yihui/rmarkdown-cookbook/kable.html)
 * [apaTables](https://www.rdocumentation.org/packages/apaTables/versions/1.5.0) - export APA formatted tables from R to word
+* [broom](https://github.com/tidymodels/broom) - turns messy output of built-in functions in R (e.g., lm, t.test) into tidy tibbles
+* [dt](https://rstudio.github.io/DT/) - render data objects in R as HTML tables
+* [gt](https://gt.rstudio.com/) - create customized tables
+* [kable](https://bookdown.org/yihui/rmarkdown-cookbook/kable.html) -  very simple table generator for strictly rectangular data (e.g., matrices, data frames)
+* [pander](https://www.statsandr.com/blog/tips-and-tricks-in-rstudio-and-r-markdown/#pander-for-aesthetics) - improve aesthetics of R outputs
+* [stargazer](https://www.jakeruss.com/cheatsheets/stargazer/)
 
 ## correlations
 * [corrgram](https://kwstat.github.io/corrgram/articles/corrgram_examples.html)
 * [corrr](https://github.com/tidymodels/corrr)
 
-## plots
+***
+
+## plots, in general
 * [ggplot2](https://ggplot2.tidyverse.org/) - data visualization package
 * [ggplot2 extensions](https://exts.ggplot2.tidyverse.org/)
-* [cowplot](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html) - add on to ggplot
 * [ggdist](https://mjskay.github.io/ggdist/reference/index.html#section-package-overview) - visualizing distributions and uncertainty
 * [ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/) - graphics that include details of statistical test
 * [lattice](https://cran.r-project.org/web/packages/lattice/index.html) - multivariate plotting
@@ -75,7 +83,7 @@ These are a collection of resources that I have found helpful in learning R.
 * [color hex codes](https://www.color-hex.com/) - help with color hex codes
 * [colorspace](https://cran.r-project.org/web/packages/colorspace/vignettes/colorspace.html) - helps to manipulate colors
 
-### highlighting select data
+### highlighting
 * [gghighlight](https://cran.r-project.org/web/packages/gghighlight/vignettes/gghighlight.html)
 * [highlight](https://cmdlinetips.com/2019/05/how-to-highlight-select-data-points-with-ggplot2-in-r/) - post on how to highlight select data in ggplot
 
@@ -84,7 +92,7 @@ These are a collection of resources that I have found helpful in learning R.
 * [showtext](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html) - alternative to extrafont; can use google fonts
 
 ### combining multiple plots
-* [patchwork](https://patchwork.data-imaginist.com/) - combime multiple plots in same visualization
+* [patchwork](https://patchwork.data-imaginist.com/) - combine multiple plots in same visualization
 * [cowplot](https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html) - arrange plots in grid
 * [gridExtra](https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html) - lay out multiple plots
 
@@ -101,6 +109,14 @@ These are a collection of resources that I have found helpful in learning R.
 * [ggsave](http://www.sthda.com/english/wiki/ggsave-save-a-ggplot-r-software-and-data-visualization) - saving a ggplot
 * [cairo](https://aebou.rbind.io/posts/2020/11/how-to-export-high-quality-images-in-r/) - using cairo package to save high quality images
 
+### data visualization
+* [choosing a chart](https://extremepresentation.typepad.com/files/chart-chooser-2020.pdf) - comparison, relationship, distribution, composition
+
+### #TidyTuesday
+* [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) - weekly social data project in R for practicing tidying and visualizing data
+* [David Robinson](https://www.youtube.com/user/safe4democracy/videos) - screencast
+* [TidyX](https://www.youtube.com/c/TidyX_screencast/videos) - screencast
+
 ### data visualization catalogues
 * [the data visualization catalogue](https://datavizcatalogue.com/)
 * [from data to viz](https://www.data-to-viz.com/)
@@ -108,11 +124,13 @@ These are a collection of resources that I have found helpful in learning R.
 * [visualization universe](http://visualizationuniverse.com/charts/)
 * [chart doctor](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
 
+***
+
 ## R markdown
 * [R Markdown](https://rmarkdown.rstudio.com/index.html)
 * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 
-****
+***
 
 ## R tutorials
 * [swirl](https://swirlstats.com/students.html) - learn R in R
@@ -138,12 +156,6 @@ These are a collection of resources that I have found helpful in learning R.
 
 ***
 
-## #TidyTuesday screencasts
-* [David Robinson](https://www.youtube.com/user/safe4democracy/videos)
-* [TidyX](https://www.youtube.com/c/TidyX_screencast/videos)
-
-***
-
 ## R for psychological research
 * [psych](http://personality-project.org/r/psych/) - descriptive and statistical analysis
 * [lavaan](https://lavaan.ugent.be/start.html) - latent variable analysis (e.g., SEM)
@@ -164,7 +176,4 @@ These are a collection of resources that I have found helpful in learning R.
 * [CRAN Task Views list of packages](https://cran.r-project.org/web/views/) - lists packages on CRAN that are relevant for certain types of tasks
 * [9 useful R data visualization packages list](https://mode.com/blog/r-data-visualization-packages/)
 * [Top 50 ggplot2 visualizations list](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
-
-## misc
-* [choosing a chart](https://extremepresentation.typepad.com/files/chart-chooser-2020.pdf) - comparison, relationship, distribution, composition
 
