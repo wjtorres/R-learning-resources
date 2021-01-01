@@ -8,7 +8,7 @@ This is a collection of resources that I have found helpful in learning R.
 
 ## importing data
 * [readr](https://readr.tidyverse.org/) - read in rectangular formats (e.g., csv)
-* [readxl](https://readxl.tidyverse.org/) - read-in Excel formats
+* [readxl](https://readxl.tidyverse.org/) - read in Excel formats
 * [haven](https://haven.tidyverse.org/) - import and export SPSS, STATA, and SAS
 
 ## creating data frames
@@ -63,7 +63,7 @@ This is a collection of resources that I have found helpful in learning R.
 * [correlation](https://github.com/easystats/correlation)
 * [corrgram](https://kwstat.github.io/corrgram/articles/corrgram_examples.html)
 * [corrr](https://github.com/tidymodels/corrr)
-*[lares](https://github.com/laresbernardo/lares) - useful functions include corr_cross() and corr_var()
+* [lares](https://github.com/laresbernardo/lares) - useful functions include corr_cross() and corr_var()
 
 ***
 
