@@ -1,5 +1,5 @@
 # R learning resources
-These are a collection of resources that I have found helpful in learning R.
+This is a collection of resources that I have found helpful in learning R.
 
 ## getting started
 * [download R](https://www.r-project.org/)
@@ -21,21 +21,30 @@ These are a collection of resources that I have found helpful in learning R.
 * [dplyr](https://dplyr.tidyverse.org/) - manipulate data (e.g., mutate, select, filter, summarize)
 * [tidyr](https://tidyr.tidyverse.org/) - tidy messy data, reshaping data (e.g., pivoting data from wide to long or long to wide)
 * [tibble](https://tibble.tidyverse.org/index.html) - includes for example add_row() and add_column()
+* [stringr](https://stringr.tidyverse.org/) - tools for working with character strings
+* [lubridate](https://lubridate.tidyverse.org/) - tools for working with dates and times
 
 ## data cleaning
 * [gsub](http://www.endmemo.com/r/gsub.php) - replace multiple occurrences of strings
 * [janitor](https://garthtarr.github.io/meatR/janitor.html) - clean data (e.g., clean variable names)
 
 ## data frame exploration
-* [DataExplorer](https://boxuancui.github.io/DataExplorer/) - has a great create_report() function
+* [DataExplorer](https://boxuancui.github.io/DataExplorer/) - has a great create_report() function; can also plot missing values with plot_missing()
 * [glimpse](https://tibble.tidyverse.org/reference/glimpse.html) - take a glimpse at data frame
 * [skimr](https://github.com/ropensci/skimr) - quickly skim descriptive statistics of data
+* [lares](https://github.com/laresbernardo/lares) - useful functions to learn about a data frame include freqs(), missingness(), and df_str()
 
 ## descriptives
 * [descriptive statistics](https://rpsystats.com/datasets.html#descriptive-statistics) - example of examining data numerically and visually
 * [summary](https://www.statmethods.net/stats/descriptives.html) - provides descriptives of data with summary() function
 * [hmisc](https://thomaselove.github.io/431notes-2017/summarizing-categorical-variables.html#describe-in-the-hmisc-package-1) - hmisc package has the describe() function to get statistical descriptions
 * [psych](https://www.rdocumentation.org/packages/psych/versions/1.0-17/topics/describe) - psych package has the describe() function
+
+## missing data
+[VIM](https://github.com/statistikat/VIM) - visualize missing data
+[visdat](https://github.com/ropensci/visdat) - helps you visualise a dataframe, including missing data
+[nanier](https://cran.r-project.org/web/packages/naniar/vignettes/getting-started-w-naniar.html) - explore missing data structures
+[with tidyverse](https://jenslaufer.com/data/analysis/visualize_missing_values_with_ggplot.html) - guide to visualizing missing data using ggplot2, dplyr, tidyr
 
 ## longitudinal data
 * [brolgar](https://github.com/njtierney/brolgar)
@@ -51,8 +60,10 @@ These are a collection of resources that I have found helpful in learning R.
 * [stargazer](https://www.jakeruss.com/cheatsheets/stargazer/)
 
 ## correlations
+* [correlation](https://github.com/easystats/correlation)
 * [corrgram](https://kwstat.github.io/corrgram/articles/corrgram_examples.html)
 * [corrr](https://github.com/tidymodels/corrr)
+*[lares](https://github.com/laresbernardo/lares) - useful functions include corr_cross() and corr_var()
 
 ***
 
@@ -99,7 +110,7 @@ These are a collection of resources that I have found helpful in learning R.
 ### animating plots
 * [gganimate](https://gganimate.com/articles/gganimate.html)
 
-### interactive plots
+### interactive web plots
 * [shiny](https://github.com/rstudio/shiny)
 * [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/)
 * [plotly](https://plotly.com/r/getting-started/)
@@ -126,9 +137,10 @@ These are a collection of resources that I have found helpful in learning R.
 
 ***
 
-## R markdown
-* [R Markdown](https://rmarkdown.rstudio.com/index.html)
+## R markdown and reporting
+* [R Markdown](https://rmarkdown.rstudio.com/index.html) - markdown with embedded R chunks; used with knitr to create reports
 * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+* [knitr](https://yihui.org/knitr/) - generating reports with R
 
 ***
 
@@ -138,13 +150,14 @@ These are a collection of resources that I have found helpful in learning R.
 
 ***
 
-## collection of online books
+## collection of online books and courses
 * [Cookbook for R](http://www.cookbook-r.com/Graphs/)
 * [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 * [Getting Used to R, RStudio, and R Markdown](https://rbasics.netlify.app/index.html)
 * [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/index.html)
 * [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+* [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/)
 * [Just Enough R](https://benwhalley.github.io/just-enough-r/)
 * [Learning Statistics with R](https://learningstatisticswithr.com/)
 * [ModernDive](https://moderndive.com/)
@@ -159,8 +172,11 @@ These are a collection of resources that I have found helpful in learning R.
 ## R for psychological research
 * [psych](http://personality-project.org/r/psych/) - descriptive and statistical analysis
 * [lavaan](https://lavaan.ugent.be/start.html) - latent variable analysis (e.g., SEM)
+* [likert](https://github.com/jbryer/likert) - analyze and visualize likert type items
 * [lme4](https://github.com/lme4/lme4/) - mixed-effects models
 * [GLM in R](https://rpsystats.com/)
+* [papaja](https://github.com/crsh/papaja) - use R markdown to create APA journal articles
+* [stats](https://www.rdocumentation.org/packages/stats/versions/3.6.2) - regression analysis, t tests and much more
 
 ***
 
