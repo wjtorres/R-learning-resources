@@ -41,10 +41,10 @@ This is a collection of resources that I have found helpful in learning R.
 * [psych](https://www.rdocumentation.org/packages/psych/versions/1.0-17/topics/describe) - psych package has the describe() function
 
 ## missing data
-[VIM](https://github.com/statistikat/VIM) - visualize missing data
-[visdat](https://github.com/ropensci/visdat) - helps you visualise a dataframe, including missing data
-[nanier](https://cran.r-project.org/web/packages/naniar/vignettes/getting-started-w-naniar.html) - explore missing data structures
-[with tidyverse](https://jenslaufer.com/data/analysis/visualize_missing_values_with_ggplot.html) - guide to visualizing missing data using ggplot2, dplyr, tidyr
+* [VIM](https://github.com/statistikat/VIM) - visualize missing data
+* [visdat](https://github.com/ropensci/visdat) - helps you visualise a dataframe, including missing data
+* [nanier](https://cran.r-project.org/web/packages/naniar/vignettes/getting-started-w-naniar.html) - explore missing data structures
+* [with tidyverse](https://jenslaufer.com/data/analysis/visualize_missing_values_with_ggplot.html) - guide to visualizing missing data using ggplot2, dplyr, tidyr
 
 ## longitudinal data
 * [brolgar](https://github.com/njtierney/brolgar)
@@ -63,7 +63,12 @@ This is a collection of resources that I have found helpful in learning R.
 * [correlation](https://github.com/easystats/correlation)
 * [corrgram](https://kwstat.github.io/corrgram/articles/corrgram_examples.html)
 * [corrr](https://github.com/tidymodels/corrr)
+* [GGally](https://ggobi.github.io/ggally/reference/index.html) - function ggpairs() creates a matrix of plots with dataset
 * [lares](https://github.com/laresbernardo/lares) - useful functions include corr_cross() and corr_var()
+
+## regression
+* [dummies](https://cran.r-project.org/web/packages/dummies/) - convert categorical data to dummy variables
+* [mctest](https://www.rdocumentation.org/packages/mctest/versions/1.1) - test for multicollinearity
 
 ***
 
