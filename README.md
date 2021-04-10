@@ -70,6 +70,10 @@ This is a collection of resources that I have found helpful in learning R.
 * [dummies](https://cran.r-project.org/web/packages/dummies/) - convert categorical data to dummy variables
 * [mctest](https://www.rdocumentation.org/packages/mctest/versions/1.1) - test for multicollinearity
 
+## country data
+* [countrycode](https://cran.r-project.org/web/packages/countrycode/index.html) - use to standardize country names; contains 40 different coding themes
+
+
 ***
 
 ## plots, in general
@@ -80,6 +84,7 @@ This is a collection of resources that I have found helpful in learning R.
 * [lattice](https://cran.r-project.org/web/packages/lattice/index.html) - multivariate plotting
 * [ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/) - plots with statistical details
 * [ggpubr](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/) - publication ready plots
+* [raincloudplots](https://github.com/jorvlan/raincloudplots) - use for repeated measures visualizations; show slope change for individual scores temporally
 
 ### themes
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - more themes for ggplot2
@@ -156,6 +161,7 @@ This is a collection of resources that I have found helpful in learning R.
 ***
 
 ## collection of online books and courses
+* [An Introduction to Data Science](https://michael-franke.github.io/intro-data-analysis/index.html)
 * [Cookbook for R](http://www.cookbook-r.com/Graphs/)
 * [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
@@ -165,10 +171,12 @@ This is a collection of resources that I have found helpful in learning R.
 * [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/)
 * [Just Enough R](https://benwhalley.github.io/just-enough-r/)
 * [Learning Statistics with R](https://learningstatisticswithr.com/)
+* [Mastering Shiny](https://mastering-shiny.org/)
 * [ModernDive](https://moderndive.com/)
 * [R for Data Science](https://r4ds.had.co.nz/)
 * [R for Psychological Science](https://psyr.djnavarro.net/)
 * [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/tidytext.html)
+* [Toronto Data Workhop](https://rohanalexander.com/toronto_data_workshop.html)
 * [YaRrr! The Pirate’s Guide to R](https://ndphillips.github.io/piratesguide.html)
 * [Handbook of Regression Modeling in People Analytics](http://peopleanalytics-regression-book.org/index.html)
 
